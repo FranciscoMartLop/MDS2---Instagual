@@ -1,0 +1,5 @@
+package ClasesInstagual;
+
+public class Mostrar_miniaturas_publicaciones_menciones extends Miniatura_de_publicacion {
+	public Ver_perfil_usuario_registrado _ver_perfil_usuario_registrado;
+}

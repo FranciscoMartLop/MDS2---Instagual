@@ -1,0 +1,6 @@
+package ClasesInstagual;
+
+public class Publicacion__vista_usuario_no_regsitrado_ extends Publicacion {
+	public Publicaciones _publicaciones;
+	public Foto_de_perfil_de_usuario_de_publicacion_vista_usuario_no_registrado _foto_de_perfil_de_usuario_de_publicacion_vista_usuario_no_registrado;
+}
