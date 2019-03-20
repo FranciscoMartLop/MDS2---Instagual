@@ -1,0 +1,5 @@
+package user_interface;
+
+public class Ver_perfil extends Ver_perfil_de_usuario {
+	public Foto_de_perfil_de_usuario_de_publicacion_vista_usuario_no_registrado _foto_de_perfil_de_usuario_de_publicacion_vista_usuario_no_registrado;
+}

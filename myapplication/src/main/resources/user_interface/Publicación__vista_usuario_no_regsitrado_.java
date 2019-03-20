@@ -1,0 +1,6 @@
+package user_interface;
+
+public class Publicación__vista_usuario_no_regsitrado_ extends Publicación {
+	public Publicaciones _publicaciones;
+	public Foto_de_perfil_de_usuario_de_publicacion_vista_usuario_no_registrado _foto_de_perfil_de_usuario_de_publicacion_vista_usuario_no_registrado;
+}
